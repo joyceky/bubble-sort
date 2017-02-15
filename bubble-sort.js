@@ -17,7 +17,7 @@ function bubbleSort(arr) {
 }
 
 let numArr = [66, 43, 44, 99, 203];
-let numArr2 = [5, 4, 3, 2, 1]
+let numArr2 = [5, 4, 3, 2, 1];
 
 console.log(bubbleSort(numArr));
 console.log(bubbleSort(numArr2));
